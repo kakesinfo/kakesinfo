@@ -1,4 +1,9 @@
-### Hi there 👋
+### Salut toi 👋
+
+Je suis
+- 🎓 Etudiant en informatique.
+- 💻 Développeur full-stack.
+- 🚀 Passioné par la conquête spatiale.
 
 <!--
 **axelcoezard/axelcoezard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
