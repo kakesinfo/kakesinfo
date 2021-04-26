@@ -1,4 +1,4 @@
-### Salut toi 👋
+# Salut toi 👋
 
 Je suis
 - 🎓 Etudiant en informatique.
