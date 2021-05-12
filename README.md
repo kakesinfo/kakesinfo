@@ -7,4 +7,4 @@ Je suis
 
 ## Mes compétences
 
-![Compétences](./skills.png)
+![Compétences](./competences.png)
