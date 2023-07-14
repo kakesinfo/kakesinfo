@@ -2,14 +2,14 @@
 
 [LinkedIn](https://www.linkedin.com/in/axelcoezard/) / [GitHub](https://github.com/axelcoezard/) / [Twitter](https://twitter.com/kakesinfo/)
 
-## 👨‍💻 Experience professionelle
+## 👨‍💻 Expérience professionnelle
 
 **Développeur full-stack** chez [Janua](https://www.januafr/) _(Août 2022 - Aujourd'hui)_ <br>
   - Participe au développement du logiciel de main courante _**Jaguards**_.
   - Cumul d'un Stage de 6 mois et d'une alternance de 2 ans toujours en cours.
   - **_Technologies utilisées:_** Angular Js, Typescript, Java, Springboot, Tomcat, Cypress.
 
-## 👨‍🎓 Etudes
+## 👨‍🎓 Études
 
 **RNCP7 d'Expert en Developpement Logiciel** _(Septembre 2021 - Aujourd'hui)_<br>
 [42 Nice](https://42nice.fr/) - Nice, France <br>
