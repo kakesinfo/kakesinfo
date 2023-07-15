@@ -4,7 +4,8 @@
 
 ## 👨‍💻 Expérience professionnelle
 
-**Développeur full-stack** chez [Janua](https://www.januafr/) _(Août 2022 - Aujourd'hui)_ <br>
+**Développeur full-stack** _(Août 2022 - Aujourd'hui)_ <br>
+[Janua](https://www.januafr/) - Valbonne, France <br>
   - Participe au développement du logiciel de main courante _**Jaguards**_.
   - Cumul d'un stage de 6 mois et d'une alternance de 2 ans (toujours en cours).
   - **_Technologies utilisées:_** Angular Js, Typescript, Java, Springboot, Tomcat, Cypress.
