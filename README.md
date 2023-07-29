@@ -12,7 +12,8 @@
 
 ## 👨‍🎓 Études
 
-**RNCP-7 d'Architecture Système & Réseau** _(Septembre 2021 - Aujourd'hui)_<br>
+**RNCP-7 d'Expert en Architecture Informatique** _(Septembre 2021 - Aujourd'hui)_<br>
+_Spécialisé en Systèmes d'information et Réseaux_ <br>
 [42 Nice](https://42nice.fr/) - Nice, France <br>
 
 **Licence Informatique** _(2019 - 2021)_<br>
