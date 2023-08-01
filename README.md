@@ -1,6 +1,6 @@
 # Salut, je suis Axel 👋
 
-[LinkedIn](https://www.linkedin.com/in/axelcoezard/) / [Twitter](https://twitter.com/kakesinfo/)
+[LinkedIn](https://www.linkedin.com/in/axelcoezard/) / [X](https://x.com/kakesinfo/)
 
 ## 👨‍💻 Expérience professionnelle
 
