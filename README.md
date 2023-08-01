@@ -8,7 +8,7 @@
 [Janua](https://www.januafr/) - Valbonne, France <br>
   - Participe au développement du logiciel de main courante _[Jaguards](https://www.jaguards.com/)_.
   - Cumul d'un stage de 6 mois et d'une alternance de 2 ans (toujours en cours).
-  - **_Technologies utilisées:_** Angular Js, Typescript, Java, Springboot, Tomcat, Cypress.
+  - **_Technologies utilisées:_** Java, Springboot, Typescript, Cypress, AngularJs, Docker, Github Actions.
 
 ## 👨‍🎓 Études
 
