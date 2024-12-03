@@ -7,14 +7,15 @@
 **Développeur full-stack** _(Août 2022 - Aujourd'hui)_ <br>
 [Janua](https://www.januafr/) - Valbonne, France <br>
   - Participe au développement du logiciel de main courante _[Jaguards](https://www.jaguards.com/)_.
+  - Développement du logiciel interne **_Jaboard_** de gestion de clients 
   - Cumul d'un stage de 6 mois et d'une alternance de 2 ans (toujours en cours).
-  - **_Technologies utilisées:_** Java, Springboot, Typescript, Cypress, AngularJs, Docker, Github Actions.
+  - **_Technologies utilisées:_** Java, Springboot, Typescript, AngularJs, Docker, Github Actions.
 
 ## 👷‍♂️ Projets personnels
 
 [**Better Than Nothing**](https://github.com/axelcoezard/Better-than-Nothing) _(Mars 2023 - Aujourd'hui)_ <br>
   - Moteur de jeu 3D développé en C++20 via l'api graphique Vulkan.
-  - Pensé pour supporter des jeux 3D narratifs.
+  - Pensé pour l'apprentissage et l'experimentation
 
 ## 👨‍🎓 Études
 
