@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Expérience professionnelle
 
-**Développeur full-stack** _(Août 2022 - Aujourd'hui)_ <br>
+**Développeur full-stack** _(Août 2022 - Janvier 2025)_ <br>
 [Janua](https://www.januafr/) - Valbonne, France <br>
   - Participe au développement du logiciel de main courante _[Jaguards](https://www.jaguards.com/)_.
   - Développement du logiciel interne **_Jaboard_** de gestion de clients 
