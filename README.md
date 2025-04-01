@@ -18,7 +18,7 @@
 
 ## 👷‍♂️ Projets personnels
 
-[**Better Than Nothing**](https://github.com/axelcoezard/Better-than-Nothing) _(Mars 2023 - Aujourd'hui)_ <br>
+[**Better Than Nothing**](https://github.com/baddevs-studio/better-than-nothing) _(Mars 2023 - Aujourd'hui)_ <br>
   - Moteur de jeu 3D développé en C++20 via l'api graphique Vulkan.
   - Pensé pour l'apprentissage et l'experimentation
 
