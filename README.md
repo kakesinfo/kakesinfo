@@ -1,7 +1,11 @@
 # Salut, je suis Axel 👋
 
-[LinkedIn](https://www.linkedin.com/in/axelcoezard) / [X](https://x.com/kakesinfo)
+## 👷‍♂️ Projets personnels
 
+[**Better Than Nothing**](https://github.com/kakesinfo/better-than-nothing) _(Mars 2023 - Aujourd'hui)_ <br>
+  - Moteur de jeu 3D développé en C++20 via l'api graphique Vulkan.
+  - Pensé pour l'apprentissage et l'experimentation
+    
 ## 👨‍💻 Expérience professionnelle
 
 **Développeur back-end** _(Février 2025 - Aujourd'hui)_ <br>
@@ -15,12 +19,6 @@
   - Développement du logiciel interne **_Jaboard_** de gestion de clients 
   - Cumul d'un stage de 6 mois et d'une alternance de 2 ans (toujours en cours).
   - **_Technologies utilisées:_** Java, Springboot, Typescript, AngularJs, Docker, Github Actions.
-
-## 👷‍♂️ Projets personnels
-
-[**Better Than Nothing**](https://github.com/kakesinfo/better-than-nothing) _(Mars 2023 - Aujourd'hui)_ <br>
-  - Moteur de jeu 3D développé en C++20 via l'api graphique Vulkan.
-  - Pensé pour l'apprentissage et l'experimentation
 
 ## 👨‍🎓 Études
 
