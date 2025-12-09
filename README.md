@@ -1,5 +1,3 @@
-# Salut, je suis Axel 👋
-
 ## 👷‍♂️ Projets personnels
 
 [**Better Than Nothing**](https://github.com/kakesinfo/better-than-nothing) _(Mars 2023 - Aujourd'hui)_ <br>
