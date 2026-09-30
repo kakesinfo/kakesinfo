@@ -1,7 +1,7 @@
 ## 👷‍♂️ Projets personnels
 
 [**Better Than Nothing**](https://gitlab.com/kakesinfo/better-than-nothing) _(Mars 2023 - Aujourd'hui)_ <br>
-  - Moteur de jeu 3D développé en C++20 via l'api graphique Vulkan.
+  - Moteur de jeu 3D développé en C++23 via l'api graphique Vulkan.
   - Pensé pour l'apprentissage et l'experimentation.
     
 ## 👨‍💻 Expérience professionnelle
